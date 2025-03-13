@@ -1,0 +1,81 @@
+Name,Sequence Name,Type,Minimum,Maximum,Length,# Intervals,Direction,Sequence (with extension),Length (with extension),%GC,Amino Acid Change,CDS Position,Change,Codon Change,Coverage,Hairpin Tm,Polymorphism Type,Protein Effect,Self Dimer Tm,Tm,Variant Frequency,Variant P-Value (approximate)
+A-domain_part1,Tc09v2_t015490 CDS 2,Actuator,1,270,270,1,forward,,,,,,,,,,,,,,,
+a_domain_part2,Tc09v2_t015490 CDS 2,Actuator,385,414,30,1,forward,,,,,,,,,,,,,,,
+ATP_binding,Tc09v2_t015490 CDS 2,ATP_binding,1699,1719,9,3,forward,,,,,,,,,,,,,,,
+ATP_binding,Tc09v2_t015490 CDS 2,ATP_binding,1627,1635,9,1,forward,,,,,,,,,,,,,,,
+ATP_binding ,Tc09v2_t015490 CDS 2,ATP_binding,1774,1782,6,2,forward,,,,,,,,,,,,,,,
+Tc09v2_t015490 CDS,Tc09v2_t015490 CDS 2,CDS,1,3177,3177,9,forward,,,,,,,,,,,,,,,
+exon9,Tc09v2_t015490 CDS 2,exon,1669,3177,1509,1,forward,,,,,,,,,,,,,,,
+exon6,Tc09v2_t015490 CDS 2,exon,938,1266,329,1,forward,,,,,,,,,,,,,,,
+exon2,Tc09v2_t015490 CDS 2,exon,188,445,258,1,forward,,,,,,,,,,,,,,,
+exon4,Tc09v2_t015490 CDS 2,exon,545,801,257,1,forward,,,,,,,,,,,,,,,
+exon8,Tc09v2_t015490 CDS 2,exon,1466,1668,203,1,forward,,,,,,,,,,,,,,,
+exon7,Tc09v2_t015490 CDS 2,exon,1267,1465,199,1,forward,,,,,,,,,,,,,,,
+exon1,Tc09v2_t015490 CDS 2,exon,1,187,187,1,forward,,,,,,,,,,,,,,,
+exon5,Tc09v2_t015490 CDS 2,exon,802,937,136,1,forward,,,,,,,,,,,,,,,
+exon3,Tc09v2_t015490 CDS 2,exon,446,544,99,1,forward,,,,,,,,,,,,,,,
+MBS_TM8,Tc09v2_t015490 CDS 2,MBS,2032,2046,6,2,forward,,,,,,,,,,,,,,,
+MBS,Tc09v2_t015490 CDS 2,MBS,1042,1050,6,2,forward,,,,,,,,,,,,,,,
+MBS_TM7,Tc09v2_t015490 CDS 2,MBS,1966,1971,6,1,forward,,,,,,,,,,,,,,,
+N-domain,Tc09v2_t015490 CDS 2,Nucleotide_binding,1201,1554,354,1,forward,,,,,,,,,,,,,,,
+Nucleotide_binding,Tc09v2_t015490 CDS 2,Nucleotide_binding,1177,1182,6,1,forward,,,,,,,,,,,,,,,
+P-domain_part2,Tc09v2_t015490 CDS 2,Phosphorilation_site,1555,1935,381,1,forward,,,,,,,,,,,,,,,
+P-domain_part1,Tc09v2_t015490 CDS 2,Phosphorilation_site,1111,1200,90,1,forward,,,,,,,,,,,,,,,
+Conserverd_Asp,Tc09v2_t015490 CDS 2,Phosphorilation_site,1174,1176,3,1,forward,,,,,,,,,,,,,,,
+A,SPEC-54-1_Chr9v1_21645.1,Polymorphism,143,143,1,1,none,,,,,,C -> A,,6,,SNP (transversion),,,,16.7%,0.059
+C,SPEC-54-1_Chr9v1_21645.1,Polymorphism,144,144,1,1,none,,,,,,T -> C,,6,,SNP (transition),,,,16.7%,0.059
+T,SPEC-54-1_Chr9v1_21645.1,Polymorphism,201,201,1,1,none,,,,,,C -> T,,6,,SNP (transition),,,,33.3%,0.0015
+C,SPEC-54-1_Chr9v1_21645.1,Polymorphism,343,343,1,1,none,,,,,,T -> C,,6,,SNP (transition),,,,33.3%,0.0015
+T,SPEC-54-1_Chr9v1_21645.1,Polymorphism,500,500,1,1,none,,,,,,C -> T,,6,,SNP (transition),,,,16.7%,0.059
+G,SPEC-54-1_Chr9v1_21645.1,Polymorphism,741,741,1,1,none,,,,,,T -> G,,6,,SNP (transversion),,,,33.3%,0.0015
+C,SPEC-54-1_Chr9v1_21645.1,Polymorphism,1353,1353,1,1,none,,,,,,T -> C,,6,,SNP (transition),,,,66.7%,1.5E-7
+T,SPEC-54-1_Chr9v1_21645.1,Polymorphism,1355,1355,1,1,none,,,,,,A -> T,,6,,SNP (transversion),,,,16.7%,0.059
+T,SPEC-54-1_Chr9v1_21645.1,Polymorphism,1475,1475,1,1,none,,,,,,C -> T,,6,,SNP (transition),,,,16.7%,0.059
+T,SPEC-54-1_Chr9v1_21645.1,Polymorphism,1560,1560,1,1,none,,,,,,C -> T,,6,,SNP (transition),,,,33.3%,0.0015
+G,SPEC-54-1_Chr9v1_21645.1,Polymorphism,1663,1663,1,1,none,,,,,,A -> G,,6,,SNP (transition),,,,16.7%,0.059
+C,SPEC-54-1_Chr9v1_21645.1,Polymorphism,1744,1744,1,1,none,,,,,,G -> C,,6,,SNP (transversion),,,,33.3%,0.0015
+C,SPEC-54-1_Chr9v1_21645.1,Polymorphism,2132,2132,1,1,none,,,,,,T -> C,,6,,SNP (transition),,,,33.3%,0.0015
+T,SPEC-54-1_Chr9v1_21645.1,Polymorphism,2252,2252,1,1,none,,,,,,C -> T,,6,,SNP (transition),,,,16.7%,0.059
+A,SPEC-54-1_Chr9v1_21645.1,Polymorphism,2692,2692,1,1,none,,,,,,C -> A,,6,,SNP (transversion),,,,33.3%,0.0015
+T,SPEC-54-1_Chr9v1_21645.1,Polymorphism,2731,2731,1,1,none,,,,,,A -> T,,6,,SNP (transversion),,,,33.3%,0.0015
+A,SPEC-54-1_Chr9v1_21645.1,Polymorphism,2824,2824,1,1,none,,,,,,G -> A,,6,,SNP (transition),,,,33.3%,0.0015
+C,SPEC-54-1_Chr9v1_21645.1,Polymorphism,2899,2899,1,1,none,,,,,,A -> C,,6,,SNP (transversion),,,,16.7%,0.059
+G,SPEC-54-1_Chr9v1_21645.1,Polymorphism,2928,2928,1,1,none,,,,,,A -> G,,6,,SNP (transition),,,,33.3%,0.0015
+C,SPEC-54-1_Chr9v1_21645.1,Polymorphism,3156,3156,1,1,none,,,,,,T -> C,,6,,SNP (transition),,,,33.3%,0.0015
+AT,Tc09v2_t015490 CDS 2,Polymorphism,131,132,2,1,none,,,,P -> H,131,CC -> AT,CCC -> CAT,6,,Substitution,Substitution,,,16.7%,
+T,Tc09v2_t015490 CDS 2,Polymorphism,132,132,1,1,none,,,,,132,C -> T,CCC -> CCT,6,,SNP (transition),None,,,83.3%,
+C,Tc09v2_t015490 CDS 2,Polymorphism,189,189,1,1,none,,,,,189,T -> C,GTT -> GTC,6,,SNP (transition),None,,,83.3%,
+T,Tc09v2_t015490 CDS 2,Polymorphism,331,331,1,1,none,,,,,331,C -> T,CTG -> TTG,6,,SNP (transition),None,,,83.3%,
+C,Tc09v2_t015490 CDS 2,Polymorphism,488,488,1,1,none,,,,I -> T,488,T -> C,ATT -> ACT,6,,SNP (transition),Substitution,,,100.0%,
+T,Tc09v2_t015490 CDS 2,Polymorphism,729,729,1,1,none,,,,,729,G -> T,CTG -> CTT,6,,SNP (transversion),None,,,83.3%,
+T,Tc09v2_t015490 CDS 2,Polymorphism,1341,1341,1,1,none,,,,,1341,C -> T,ATC -> ATT,6,,SNP (transition),None,,,50.0%,
+T,Tc09v2_t015490 CDS 2,Polymorphism,1343,1343,1,1,none,,,,E -> V,1343,A -> T,GAA -> GTA,6,,SNP (transversion),Substitution,,,16.7%,
+C,Tc09v2_t015490 CDS 2,Polymorphism,1463,1463,1,1,none,,,,I -> T,1463,T -> C,ATA -> ACA,6,,SNP (transition),Substitution,,,100.0%,
+C,Tc09v2_t015490 CDS 2,Polymorphism,1548,1548,1,1,none,,,,,1548,T -> C,AGT -> AGC,6,,SNP (transition),None,,,83.3%,
+G,Tc09v2_t015490 CDS 2,Polymorphism,1651,1651,1,1,none,,,,I -> V,1651,A -> G,ATA -> GTA,6,,SNP (transition),Substitution,,,16.7%,
+G,Tc09v2_t015490 CDS 2,Polymorphism,1732,1732,1,1,none,,,,Q -> E,1732,C -> G,CAA -> GAA,6,,SNP (transversion),Substitution,,,83.3%,
+T,Tc09v2_t015490 CDS 2,Polymorphism,2120,2120,1,1,none,,,,S -> L,2120,C -> T,TCG -> TTG,6,,SNP (transition),Substitution,,,83.3%,
+T,Tc09v2_t015490 CDS 2,Polymorphism,2240,2240,1,1,none,,,,S -> L,2240,C -> T,TCG -> TTG,6,,SNP (transition),Substitution,,,16.7%,
+C,Tc09v2_t015490 CDS 2,Polymorphism,2680,2680,1,1,none,,,,N -> H,2680,A -> C,AAC -> CAC,6,,SNP (transversion),Substitution,,,83.3%,
+A,Tc09v2_t015490 CDS 2,Polymorphism,2719,2719,1,1,none,,,,S -> T,2719,T -> A,TCT -> ACT,6,,SNP (transversion),Substitution,,,83.3%,
+G,Tc09v2_t015490 CDS 2,Polymorphism,2812,2812,1,1,none,,,,I -> V,2812,A -> G,ATA -> GTA,6,,SNP (transition),Substitution,,,83.3%,
+C,Tc09v2_t015490 CDS 2,Polymorphism,2887,2887,1,1,none,,,,T -> P,2887,A -> C,ACT -> CCT,6,,SNP (transversion),Substitution,,,16.7%,
+A,Tc09v2_t015490 CDS 2,Polymorphism,2916,2916,1,1,none,,,,,2916,G -> A,GTG -> GTA,6,,SNP (transition),None,,,83.3%,
+T,Tc09v2_t015490 CDS 2,Polymorphism,3144,3144,1,1,none,,,,,3144,C -> T,CTC -> CTT,6,,SNP (transition),None,,,83.3%,
+8r,Tc09v2_t015490 CDS 2,Primer Bind Reverse (primer_bind_reverse),300,328,29,1,reverse,,,,,,,,,,,,,,,
+7r,Tc09v2_t015490 CDS 2,Primer Bind Reverse (primer_bind_reverse),1371,1394,24,1,reverse,,,,,,,,,,,,,,,
+4r,Tc09v2_t015490 CDS 2,Primer Bind Reverse (primer_bind_reverse),961,982,22,1,reverse,,,,,,,,,,,,,,,
+r5,Tc09v2_t015490 CDS 2,Primer Bind Reverse (primer_bind_reverse),606,626,21,1,reverse,,,,,,,,,,,,,,,
+6r,Tc09v2_t015490 CDS 2,Primer Bind Reverse (primer_bind_reverse),919,937,19,1,reverse,,,,,,,,,,,,,,,
+r2,Tc09v2_t015490 CDS 2,Primer Bind Reverse (primer_bind_reverse),2533,2550,18,1,reverse,,,,,,,,,,,,,,,
+90f,Tc09v2_t015490 CDS 2,primer_bind,1,19,19,1,forward,ATGGATGCGAATAAAAAAC,19,31.6,,,,,,None,,,None,49.5,,
+4f,Tc09v2_t015490 CDS 2,primer_bind,2533,2550,18,1,forward,GTCCAAAAGCCGTGTGCG,18,61.1,,,,,,47.8,,,None,60.1,,
+3R,Tc09v2_t015490 CDS 2,primer_bind_reverse,1741,1759,19,1,reverse,CTGTTGGCCCCTCTTTCCT,19,57.9,,,,,,None,,,None,59.2,,
+TM8,Tc09v2_t015490 CDS 2,transmembrane region,2011,2079,69,1,forward,,,,,,,,,,,,,,,
+TM7,Tc09v2_t015490 CDS 2,transmembrane region,1936,1998,63,1,forward,,,,,,,,,,,,,,,
+TM1,Tc09v2_t015490 CDS 2,transmembrane region,271,325,55,1,forward,,,,,,,,,,,,,,,
+TM5,Tc09v2_t015490 CDS 2,transmembrane region,931,984,54,1,forward,,,,,,,,,,,,,,,
+TM6,Tc09v2_t015490 CDS 2,transmembrane region,1009,1062,54,1,forward,,,,,,,,,,,,,,,
+TM2,Tc09v2_t015490 CDS 2,transmembrane region,332,384,53,1,forward,,,,,,,,,,,,,,,
+TM3,Tc09v2_t015490 CDS 2,transmembrane region,415,465,51,1,forward,,,,,,,,,,,,,,,
+TM4,Tc09v2_t015490 CDS 2,transmembrane region,475,522,48,1,forward,,,,,,,,,,,,,,,

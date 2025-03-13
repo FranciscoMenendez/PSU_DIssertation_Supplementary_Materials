@@ -1,0 +1,46 @@
+Name,Sequence Name,Type,Minimum,Maximum,Length,# Intervals,Amino Acid Change,CDS Position,Change,Codon Change,Coverage,Polymorphism Type,Protein Effect,Variant Frequency
+CDS,SPEC-54-1_Chr9v1_21646.1,CDS,13,3189,3177,9,,,,,,,,
+CDS,ICS-1_Chr9v1_22948.1,CDS,1,3177,3177,9,,,,,,,,
+T,SPEC-54-1_Chr9v1_21646.1,Polymorphism,48,48,1,1,,36,C -> T,TTC -> TTT,7,SNP (transition),None,42.9%
+A,SPEC-54-1_Chr9v1_21646.1,Polymorphism,143,143,1,1,P -> H,131,C -> A,CCT -> CAT,7,SNP (transversion),Substitution,28.6%
+C,SPEC-54-1_Chr9v1_21646.1,Polymorphism,201,201,1,1,,189,T -> C,GTT -> GTC,7,SNP (transition),None,14.3%
+C,SPEC-54-1_Chr9v1_21646.1,Polymorphism,333,333,1,1,,321,A -> C,GCA -> GCC,7,SNP (transversion),None,57.1%
+T,SPEC-54-1_Chr9v1_21646.1,Polymorphism,357,357,1,1,,345,C -> T,GCC -> GCT,7,SNP (transition),None,28.6%
+T,SPEC-54-1_Chr9v1_21646.1,Polymorphism,360,360,1,1,,348,A -> T,GTA -> GTT,7,SNP (transversion),None,14.3%
+A,SPEC-54-1_Chr9v1_21646.1,Polymorphism,373,373,1,1,V -> I,361,G -> A,GTT -> ATT,7,SNP (transition),Substitution,14.3%
+T,SPEC-54-1_Chr9v1_21646.1,Polymorphism,393,393,1,1,,381,G -> T,CTG -> CTT,7,SNP (transversion),None,28.6%
+G,SPEC-54-1_Chr9v1_21646.1,Polymorphism,408,408,1,1,,396,A -> G,GCA -> GCG,7,SNP (transition),None,28.6%
+T,SPEC-54-1_Chr9v1_21646.1,Polymorphism,458,458,1,1,A -> V,446,C -> T,GCG -> GTG,7,SNP (transition),Substitution,28.6%
+G,SPEC-54-1_Chr9v1_21646.1,Polymorphism,469,469,1,1,I -> V,457,A -> G,ATT -> GTT,7,SNP (transition),Substitution,71.4%
+A,SPEC-54-1_Chr9v1_21646.1,Polymorphism,525,525,1,1,,513,G -> A,GCG -> GCA,7,SNP (transition),None,28.6%
+T,SPEC-54-1_Chr9v1_21646.1,Polymorphism,567,567,1,1,,555,C -> T,GTC -> GTT,7,SNP (transition),None,14.3%
+A,SPEC-54-1_Chr9v1_21646.1,Polymorphism,666,666,1,1,,654,C -> A,GCC -> GCA,7,SNP (transversion),None,14.3%
+T,SPEC-54-1_Chr9v1_21646.1,Polymorphism,754,754,1,1,L -> F,742,C -> T,CTT -> TTT,7,SNP (transition),Substitution,14.3%
+G,SPEC-54-1_Chr9v1_21646.1,Polymorphism,896,896,1,1,N -> S,884,A -> G,AAC -> AGC,7,SNP (transition),Substitution,14.3%
+A,SPEC-54-1_Chr9v1_21646.1,Polymorphism,905,905,1,1,R -> K,893,G -> A,AGA -> AAA,7,SNP (transition),Substitution,14.3%
+C,SPEC-54-1_Chr9v1_21646.1,Polymorphism,962,962,1,1,V -> A,950,T -> C,GTA -> GCA,7,SNP (transition),Substitution,14.3%
+T,SPEC-54-1_Chr9v1_21646.1,Polymorphism,969,969,1,1,,957,C -> T,GCC -> GCT,7,SNP (transition),None,14.3%
+T,SPEC-54-1_Chr9v1_21646.1,Polymorphism,1024,1024,1,1,H -> Y,1012,C -> T,CAC -> TAC,7,SNP (transition),Substitution,14.3%
+G,SPEC-54-1_Chr9v1_21646.1,Polymorphism,1065,1065,1,1,,1053,T -> G,GCT -> GCG,7,SNP (transversion),None,14.3%
+A,SPEC-54-1_Chr9v1_21646.1,Polymorphism,1302,1302,1,1,,1290,C -> A,TCC -> TCA,7,SNP (transversion),None,14.3%
+T,SPEC-54-1_Chr9v1_21646.1,Polymorphism,1349,1349,1,1,S -> F,1337,C -> T,TCC -> TTC,7,SNP (transition),Substitution,14.3%
+T,SPEC-54-1_Chr9v1_21646.1,Polymorphism,1448,1448,1,1,R -> I,1436,G -> T,AGA -> ATA,7,SNP (transversion),Substitution,28.6%
+A,SPEC-54-1_Chr9v1_21646.1,Polymorphism,1455,1455,1,1,,1443,T -> A,ATT -> ATA,7,SNP (transversion),None,14.3%
+A,SPEC-54-1_Chr9v1_21646.1,Polymorphism,1558,1558,1,1,R -> S,1546,C -> A,CGT -> AGT,7,SNP (transversion),Substitution,14.3%
+C,SPEC-54-1_Chr9v1_21646.1,Polymorphism,2007,2007,1,1,,1995,T -> C,TTT -> TTC,7,SNP (transition),None,14.3%
+G,SPEC-54-1_Chr9v1_21646.1,Polymorphism,2101,2101,1,1,H -> D,2089,C -> G,CAC -> GAC,7,SNP (transversion),Substitution,14.3%
+C,SPEC-54-1_Chr9v1_21646.1,Polymorphism,2155,2155,1,1,K -> Q,2143,A -> C,AAA -> CAA,7,SNP (transversion),Substitution,14.3%
+A,SPEC-54-1_Chr9v1_21646.1,Polymorphism,2246,2246,1,1,R -> K,2234,G -> A,AGA -> AAA,7,SNP (transition),Substitution,28.6%
+C,SPEC-54-1_Chr9v1_21646.1,Polymorphism,2252,2252,1,1,L -> S,2240,T -> C,TTG -> TCG,7,SNP (transition),Substitution,14.3%
+C,SPEC-54-1_Chr9v1_21646.1,Polymorphism,2354,2354,1,1,H -> P,2342,A -> C,CAC -> CCC,7,SNP (transversion),Substitution,14.3%
+C,SPEC-54-1_Chr9v1_21646.1,Polymorphism,2367,2367,1,1,,2355,T -> C,GTT -> GTC,7,SNP (transition),None,14.3%
+A,SPEC-54-1_Chr9v1_21646.1,Polymorphism,2414,2414,1,1,C -> Y,2402,G -> A,TGC -> TAC,7,SNP (transition),Substitution,14.3%
+G,SPEC-54-1_Chr9v1_21646.1,Polymorphism,2416,2416,1,1,M -> V,2404,A -> G,ATG -> GTG,7,SNP (transition),Substitution,14.3%
+G,SPEC-54-1_Chr9v1_21646.1,Polymorphism,2531,2531,1,1,I -> S,2519,T -> G,ATC -> AGC,7,SNP (transversion),Substitution,14.3%
+C,SPEC-54-1_Chr9v1_21646.1,Polymorphism,2636,2636,1,1,V -> A,2624,T -> C,GTG -> GCG,7,SNP (transition),Substitution,14.3%
+A,SPEC-54-1_Chr9v1_21646.1,Polymorphism,2656,2656,1,1,D -> N,2644,G -> A,GAT -> AAT,7,SNP (transition),Substitution,14.3%
+G,SPEC-54-1_Chr9v1_21646.1,Polymorphism,2669,2669,1,1,N -> S,2657,A -> G,AAT -> AGT,7,SNP (transition),Substitution,14.3%
+A,SPEC-54-1_Chr9v1_21646.1,Polymorphism,2793,2793,1,1,,2781,T -> A,ACT -> ACA,7,SNP (transversion),None,28.6%
+A,SPEC-54-1_Chr9v1_21646.1,Polymorphism,2824,2824,1,1,V -> I,2812,G -> A,GTA -> ATA,7,SNP (transition),Substitution,14.3%
+C,SPEC-54-1_Chr9v1_21646.1,Polymorphism,3040,3040,1,1,S -> P,3028,T -> C,TCA -> CCA,7,SNP (transition),Substitution,57.1%
+A,SPEC-54-1_Chr9v1_21646.1,Polymorphism,3043,3043,1,1,D -> N,3031,G -> A,GAC -> AAC,7,SNP (transition),Substitution,28.6%
